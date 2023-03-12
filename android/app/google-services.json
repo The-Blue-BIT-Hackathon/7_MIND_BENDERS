@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587676540367",
+    "project_id": "visualizegrow",
+    "storage_bucket": "visualizegrow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587676540367:android:c55af51e20426c900346ba",
+        "android_client_info": {
+          "package_name": "com.example.visualizegrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587676540367-n6sfoopmknptrs2q2f7ul1k929vonvom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHCT0eF3FOIgCFVyH6oxSyHU2F7xVrFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587676540367-n6sfoopmknptrs2q2f7ul1k929vonvom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
